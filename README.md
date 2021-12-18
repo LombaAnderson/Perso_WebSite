@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Perso_WebSite/blob/main/LICENSE)
 
 # Sobre o projeto
-Portfólio criado com HTML, CSS e Javascript somente para mostrar meu trabalho como programador. Esse portfólio foi hospedado na Infinity free e para acessá-lo basta 
+Portfólio criado somente com HTML, CSS e Javascript para mostrar meu trabalho como programador. Esse portfólio foi hospedado na Infinity free e para acessá-lo basta 
 digitar o endereço web https://www.lombanderson.epizy.com.
 
 ## Imagem da página principal do portfólio
